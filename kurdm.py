@@ -210,11 +210,11 @@ jalan("\033[1;96m| |   | ( ) | | | | (_(_)")
 jalan("\033[1;96m| |  _| | | | | | |  _)_ ")
 jalan("\033[1;96m| |_( ) (_) | \_/ | (_( )")
 jalan("\033[1;96m(____/(_____)\___/(____/ ")
-jalan('\033[1;93m              Welcome to Eso Work')
+jalan('\033[1;93m              Welcome to HAMA')
 print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;96meso_Karo\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 
-CorrectUsername = "Blak_mafia"
-CorrectPassword = "eso_ruse"
+CorrectUsername = "hama_up"
+CorrectPassword = "kurdhome"
 
 loop = 'true'
 while (loop == 'true'):
